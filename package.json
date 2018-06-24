@@ -1,0 +1,22 @@
+{
+  "name": "voeding",
+  "version": "1.0.0",
+  "description": "voeding proggy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobpetrovic85/voeding.git"
+  },
+  "keywords": [
+    "voeding"
+  ],
+  "author": "Bocaj Petrov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobpetrovic85/voeding/issues"
+  },
+  "homepage": "https://github.com/jacobpetrovic85/voeding#readme"
+}
